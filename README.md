@@ -4,35 +4,35 @@ I'm a DevOps.
 
 ### My Toolbox
 
-<p align="left">
-  <a href="https://kubernetes.io/">
+<p align="left" style="text-decoration: none;">
+  <a href="https://kubernetes.io/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.docker.com/">
+  <a href="https://www.docker.com/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://argoproj.github.io/">
+  <a href="https://argoproj.github.io/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://helm.sh/">
+  <a href="https://helm.sh/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" width="50" height="50"/>
   </a>
-  <a href="https://www.jenkins.io/">
+  <a href="https://www.jenkins.io/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>&nbsp;
   </a>
-	<a href="https://www.gitlab.com/">
+	<a href="https://www.gitlab.com/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>&nbsp;
   </a>
-	<a href="https://www.github.com/">
+	<a href="https://www.github.com/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>&nbsp;
   </a>
-	<a href="https://www.ansible.com/">
+	<a href="https://www.ansible.com/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>&nbsp;
   </a>
-	<a href="https://www.prometheus.com/">
+	<a href="https://www.prometheus.com/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>&nbsp;
   </a>
-	<a href="https://www.grafana.com/">
+	<a href="https://www.grafana.com/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>&nbsp;
   </a>
 </p>
