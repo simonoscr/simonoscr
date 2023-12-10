@@ -25,9 +25,11 @@ I'm a DevOps.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>&nbsp;
   </a><a href="https://www.grafana.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>&nbsp;
+  </a><a href="https://nixos.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" alt="NixOS" width="50" height="50"/>&nbsp;
   </a>
 </p>
-
+ 
 ---
 
  [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonoscr&show_icons=true&theme=vue-dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
