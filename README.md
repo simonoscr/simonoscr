@@ -10,6 +10,7 @@ I'm a DevOps-Engineer.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 ![Podman](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-E44C30?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -43,9 +44,7 @@ I'm a DevOps-Engineer.
 ### Secret Management
 ![Vault](https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&logo=vault&logoColor=white&color=%23FFEC6E)
 
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=simonoscr&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
-
 ---
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=simonoscr&icon=5&color=8)](https://visitcount.itsvg.in)
